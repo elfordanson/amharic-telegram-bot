@@ -2,7 +2,7 @@
 
 **Type Amharic easily using your regular English keyboard — directly in Telegram inline mode.**
 
-This bot allows anyone to write in **Amharic (አማርኛ)** without needing an Amharic keyboard layout. Just start typing in English (like "selam" or "tenastalign"), and the bot instantly suggests or converts it to proper Amharic script — usable inline in any private chat, group, or channel.
+> This bot allows anyone to write in **Amharic (አማርኛ)** without needing an Amharic keyboard layout. Just start typing in English (like "selam" or "tenastalign"), and the bot instantly suggests or converts it to proper Amharic script — usable inline in any private chat, group, or channel.
 
 ### Main Features
 - **Inline mode support** — works anywhere in Telegram (type `@amharictlbot`)
